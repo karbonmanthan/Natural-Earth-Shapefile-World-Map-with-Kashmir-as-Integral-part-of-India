@@ -5,6 +5,7 @@ This project is built on the work of Anuj Tiwari (Email: anujtiwari.iitr@gmail.c
 
 The world map shapefile provided by Natural Earth admin-0 features follows the "Disputed boundaries policy" - https://www.naturalearthdata.com/about/disputed-boundaries-policy/. I have updated this admin-0 layer using Indian boundaries shapefile from Anuj Tiwari.
 
+Shapefile preview - 
 ![alt text](https://github.com/karbonmanthan/Natural-Earth-Shapefile-World-Map-with-Kashmir-as-Integral-part-of-India/blob/main/map.png?raw=true)
 
 
