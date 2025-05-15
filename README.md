@@ -1,5 +1,5 @@
 # Natural-Earth-Shapefile-World-Map-with-Kashmir-as-Integral-part-of-India
-The shapefile uploaded here provides a World Map where Indian boundaries comply with the survey of India records. It therefore shows a world map with Kashmir as an integral part of India. The intention is to help Indian researchers to perform data analysis on a world map without much pre-analysis to adjust boundaries.
+The shapefile uploaded here provides a World Map where Indian boundaries comply with the survey of India records. It therefore shows a world map with Kashmir as an integral part of India. The intention is to help researchers to perform data analysis on a world map without much pre-analysis to adjust boundaries.
 
 This project is built on the work of Anuj Tiwari (Email: anujtiwari.iitr@gmail.com) who has made the most updated version of the India Boundary Shape File that represents the boundary of the Republic of India as per survey of India records. 
 
